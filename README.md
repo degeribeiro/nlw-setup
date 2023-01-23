@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Projeto
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online](https)
+- [Acesse o projeto finalizado, online](https://degeribeiro.github.io/nlw-setup/)
 
 ## Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [FIGMA](https://www.figma.com) para acessá-lo.
